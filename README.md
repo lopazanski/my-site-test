@@ -1,2 +1,3 @@
-# my-site-test
-testing a webpage with gh-pages
+# Cori's Website
+
+Cool data science projects
